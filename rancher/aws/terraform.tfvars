@@ -1,6 +1,6 @@
 
 # AWS access key used to create infrastructure
-aws_access_key = "vb"
+aws_access_key = ""
 
 # AWS secret key used to create AWS infrastructure
 aws_secret_key = ""
